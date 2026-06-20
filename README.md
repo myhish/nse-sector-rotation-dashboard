@@ -12,5 +12,5 @@ https://github.com/myhish/nse-sector-rotation-dashboard/blob/main/Sector%20Rotat
 * **Macro Catalyst Overlay:** A lookup engine analyzing historical forward-returns (e.g., 30 days post-RBI Rate Decisions or Union Budgets) to blend daily momentum with macro playbooks.
 
 ## 📁 Repository Structure
-* `/data`: Contains raw and processed CSV data structures (Wide-format composite scores and Long-format macro event tables).
+* `/NSE Data`: Contains raw and processed CSV data structures (Wide-format composite scores and Long-format macro event tables).
 * `Sector Rotation Dashboard.pbix`: The core Power BI data model, DAX measures, and frontend layouts.
